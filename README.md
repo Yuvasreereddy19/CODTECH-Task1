@@ -17,5 +17,5 @@ Html,CSS,JavaScript
 TECHNOLOGIES USED
 Frontend frameworks: React.js
 Backend frameworks: Express.js,Node.js
-Database: Mongodb
+Database: MongoDB
 Code editors: VS code
