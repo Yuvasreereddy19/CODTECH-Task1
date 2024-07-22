@@ -19,6 +19,14 @@ Frontend frameworks: React.js
 Backend frameworks: Express.js,Node.js
 Database: MongoDB
 Code editors: VS code
+>>>
+![Screenshot (37)](https://github.com/user-attachments/assets/a05dcb1b-58c2-4fa2-93f5-bb27e54b12ef)
+![Screenshot (38)](https://github.com/user-attachments/assets/ee80eb08-4f70-4f22-a4b2-383d1c5cf4db)
+![Screenshot (39)](https://github.com/user-attachments/assets/d3c6f670-5098-4b62-91f5-305c610135aa)
+![Screenshot (40)](https://github.com/user-attachments/assets/3eccc2c1-c9de-4f73-8a7d-ca7adf98008b)
+
+
+
 
 >>>KEY ACTIVITIES:
 Frontend Development:
